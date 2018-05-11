@@ -17,7 +17,4 @@ by sending/ receiving strings. The flaskr application allows
 for a more simple web development experience since it has a wide range 
 of support for tools such as [Jinja2](http://jinja.pocoo.org/docs/2.10/).
 
-<p style="text-align: center">
-[![<img src="http://img.youtube.com/vi/5fbaj-p9v90/0.jpg"  height=300>]](http://www.youtube.com/watch?v=5fbaj-p9v90 "GitHub Video Link")
-<br></br>
-</p>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/5fbaj-p9v90/0.jpg)](http://www.youtube.com/watch?v=5fbaj-p9v90 "GitHub Video Link")
