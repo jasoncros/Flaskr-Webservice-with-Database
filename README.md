@@ -17,4 +17,4 @@ by sending/ receiving strings. The flaskr application allows
 for a more simple web development experience since it has a wide range 
 of support for tools such as [Jinja2](http://jinja.pocoo.org/docs/2.10/).
 
-![Alt Text]https://github.com/jasoncros/Flaskr-Webservice-with-Database/tree/master/flaskr/images/screencap.gif
+![grab-landing-page]https://github.com/jasoncros/Flaskr-Webservice-with-Database/tree/master/flaskr/images/screencap.gif
